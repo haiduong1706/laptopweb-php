@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.sidebar {
+  height: auto;
+  background: #343a40;
+  color: #fff;
+  padding: 15px;
+}
+.sidebar a {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  margin: 10px 0;
+}
+.sidebar a:hover {
+  color: #ff6e6e;
+}
+.main-content {
+  padding: 20px;
+  height: max-content;
+  min-height: 100vh;
+}
+.navbar {
+  background-color: #343a40;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+.tieude {
+  margin-left: 100px;
+}
